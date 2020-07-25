@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Dino[https://github.com/vinujakhatode/vinujakhatode/blob/master/dino.gif]
+![Dino](https://github.com/vinujakhatode/vinujakhatode/blob/master/dino.gif)
 
 Yeah, you are tricked!!
 <!--
