@@ -11,10 +11,13 @@
 .  
 .  
 ⚡ Fun fact: You are tricked!!😎  
+  
+  
+## I'm Vinuja Khatode  
 
-Okay, About me:👇  
+About me:👇  
 
-- 🔭 I’m currently working as a MLOps and Hybrid Multi-Cloud Intern at LinuxWorld Informatics Pvt. Ltd.  
+- 🔭 I’m currently working as a MLOps and Hybrid Multi-Cloud Intern at LinuxWorld Informatics Pvt. Ltd. and in final year of BE.  
   
 - 🌱 I’m currently learning Flutter😍  
   
